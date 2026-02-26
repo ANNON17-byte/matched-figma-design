@@ -4,13 +4,7 @@ A production-quality Next.js 14 application built as a Frontend Internship assig
 
 ## Live Demo
 
-> Deploy to Vercel and paste your live URL here.
-
-## Screenshots
-
-| Home Page | Job Dashboard |
-|-----------|---------------|
-| ![Home](./figma/Screenshot%202026-02-26%20233848.png) | ![Dashboard](./figma/Screenshot%202026-02-26%20234108.png) |
+> [Deploy to Vercel and paste your live URL here.](https://matched-figma-design.vercel.app/dashboard)
 
 ---
 
@@ -210,8 +204,3 @@ vercel
 
 ---
 
-## Author
-
-**Ashmit Yadav**
-
-Frontend Internship Assignment for SyncUp
