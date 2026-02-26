@@ -4,7 +4,7 @@ A production-quality Next.js 14 application built as a Frontend Internship assig
 
 ## Live Demo
 
-> [Deploy to Vercel and paste your live URL here.](https://matched-figma-design.vercel.app/dashboard)
+https://matched-figma-design.vercel.app/dashboard
 
 ---
 
