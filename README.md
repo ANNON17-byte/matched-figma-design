@@ -1,4 +1,3 @@
-# SyncUp - Frontend Internship Assignment
 
 A production-quality Next.js 14 application built as a Frontend Internship assignment for **SyncUp**. The project implements two pages — a **Home Page** (social feed) and a **Job Dashboard** — pixel-matched to provided Figma designs.
 
