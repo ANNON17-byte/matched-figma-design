@@ -16,7 +16,7 @@ https://matched-figma-design.vercel.app/dashboard
 | Styling | Tailwind CSS 3.4 |
 | Icons | Lucide React |
 | Charts | Recharts |
-| Linting | ESLint (next/core-web-vitals) |
+| Linting | ESLint (next/core-web-vitals) | 
 
 ---
 
